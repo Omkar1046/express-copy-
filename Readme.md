@@ -18,6 +18,7 @@
 * [Triagers](#triagers)
 * [License](#license)
 
+# hello, i am Omkar Kumbhar. I am Software Developer.
 
 [![NPM Version][npm-version-image]][npm-url]
 [![NPM Downloads][npm-downloads-image]][npm-downloads-url]
